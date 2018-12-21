@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "firstName": "Lucas",
+        "lastName": "Phan",
+        "email": "randomemail@aol.com",
+        "phone": "(559) 222-2121",
+        "editing": false
+    },
+    {
+        "id": 2,
+        "firstName": "Tom",
+        "lastName": "Brady",
+        "email": "patriots@nfl.com",
+        "phone": "(559) 211-1111",
+        "editing": false
+    },
+    {
+        "id": 3,
+        "firstName": "Bill",
+        "lastName": "Gates",
+        "email": "windows@microsoft.org",
+        "phone": "(559) 111-2222",
+        "editing": false
+    }
+]
